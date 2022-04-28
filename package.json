@@ -1,0 +1,22 @@
+{
+  "name": "brealschira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Driftix/NodeProjectRPlace.git"
+  },
+  "author": "guilhem schira corentin breal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Driftix/NodeProjectRPlace/issues"
+  },
+  "homepage": "https://github.com/Driftix/NodeProjectRPlace#readme",
+  "dependencies": {
+    "canvas": "^2.9.1"
+  }
+}
